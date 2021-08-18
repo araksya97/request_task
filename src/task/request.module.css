@@ -1,0 +1,24 @@
+.dataStyle {
+    height: 70px;
+    width: 70%;
+    font-size: 20px;
+    border: 1px solid rgb(17, 79, 82) ;
+    border-radius: 50px;
+    background-color: rgb(235, 241, 241);
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    
+}
+.spanStyle{
+    padding: 20px 30px ;
+    width: 25%;
+}
+.campStyle{
+    font-size: 23px;
+    font-weight: 300;
+}
+.buttonStyle{
+    height: 50px;
+    width: 100px;
+}
